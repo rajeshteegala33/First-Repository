@@ -1,2 +1,3 @@
 # First-Repository
-This is my first repository. Author - Rajesh Teegala
+This is my first repository.<br>
+Author - Rajesh Teegala
